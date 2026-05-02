@@ -8,7 +8,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 I’m a **Computer Science student** at the **University of Asia Pacific (UAP)**  
-- 📚 Just completed my **2nd year, 1st semester**
+- 📚 Just completed my **2nd year, 2nd semester**
 - 💡 Deeply passionate about **software engineering** and building real-world applications
 - ✅ Recently completed a **JavaFX-based Library Management System** desktop project
 - 🌱 Currently exploring new tech and planning to learn **Python**
